@@ -1,0 +1,26 @@
+{
+  "title": "Deep Tribal House Percussion",
+  "study": "z1001",
+  "bpm": 122,
+  "source_audio": "preview/deep-tribal-house-percussion-simple-synth-preview.mp3",
+  "source_audio_sha256": "b0d361d03c0b53b3b1d8023d5428acac62e116aea8c26d26aa942c834b1083ea",
+  "source_midi": "midi/z1001-deep-tribal-house-percussion-opening/z1001-deep-tribal-house-percussion-opening-combined.mid",
+  "source_midi_sha256": "78b3832c38d703eb5e5d707aaa3632d1a8b54ca9d5c46b7f647cb9ac53c7a35c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "bf2d26746c0e8036ee880201f484d98768df25a400bfff6c4b20aa7f895eb8d0",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "ac04bf1b1734a0b19d892febf04be7a6f92cc1c310ce128da19c6f1facb104fa",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "9d7caf26b897ed3734e78beb1bf76f19bed1ad6152e8f7aebbad58e1bd2c48fd",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

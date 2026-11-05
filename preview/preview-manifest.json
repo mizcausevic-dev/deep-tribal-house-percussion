@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/deep-tribal-house-percussion-simple-synth-preview.mp3",
+  "preview_sha256": "b0d361d03c0b53b3b1d8023d5428acac62e116aea8c26d26aa942c834b1083ea",
+  "source_midi_path": "midi/z1001-deep-tribal-house-percussion-opening/z1001-deep-tribal-house-percussion-opening-combined.mid",
+  "source_midi_sha256": "78b3832c38d703eb5e5d707aaa3632d1a8b54ca9d5c46b7f647cb9ac53c7a35c",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1001",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.126788,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

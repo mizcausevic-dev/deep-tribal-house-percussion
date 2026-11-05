@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:55.794416+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ac312d821cf18bfd6a7460795c4857544d03d590296dcd750a8b285cc78f4833",
+      "errors": []
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "549ce35550f21824f2b862fb0df5918f0a4a659f77ab8db40ada3a294e37cfa1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "5ee5a26cb530d259c7c1c74fe5ba424172e62998a7586e5ee743c0f17c685edc",
+      "errors": []
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "fc5c672ae4c72a386b5ae9cae98d74b939ee5fa658f26d6753c959adcd64a228",
+      "errors": []
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/z1001-deep-tribal-house-percussion-opening-combined.mid",
+      "bytes": 6018,
+      "sha256": "78b3832c38d703eb5e5d707aaa3632d1a8b54ca9d5c46b7f647cb9ac53c7a35c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "dc35c636c36a64926dd4d3fc4a68c0dd783a5d089724409f71d93a3d7bfa9f57",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b22de1323eb0beb4bbf34eae3f69636d32cbc4c8529f02fa81bc663b5df131b4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "21949ea9588972a10080f07625c63d393af5c1a14c30e6f2a248fb5f7ff1c7e9",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "c7b7cd87cc2aa398facff0d7b5b3340424192c83c96ec2d9be95642edcf7db47",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "d6a4bcf3b1f3e93d10d5bae3ca1c9106a53ec30ed50cad0f5ab7159fe3c36825",
+      "errors": []
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/z1002-deep-tribal-house-percussion-variation-combined.mid",
+      "bytes": 6018,
+      "sha256": "5ced8132c61dd5cb1e4934f6362f0498e766f9906bc600d77a97a17bc3169020",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "bd9f01727d2146fae64e0d2ce865b9716ff75e3e888e973f2d2b7395947a9880",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6a40d96e186ee74805e65b9cb3d9ad769616b9f7ee4abd50562eea6e82288ef9",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "006ccc4e80178894dba894d85b708d21eee55cd829f5d4146750e83b77cfab3f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "43454eb7f1807e5061dee8fb2fa342414abdc2146d07b1eb247db21b7ba3facb",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbdf95f5941b392a2ae70d7d70ca32dc3c5b1f846a0e09a4b1dede8418d0adc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/z1003-deep-tribal-house-percussion-contrast-combined.mid",
+      "bytes": 5984,
+      "sha256": "d77e44424dbae02ed48a47a9d3e2f87e9045f17830c54f4ca97ba7630244d63d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "b799bb2dbbdc3157b9e2a437d8fad486bbd635dd6c2373f8aa1974a590438040",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e0e3262d8649ee54d81fa83e68e62e9732f6947894d56d93a47571afa87bdcf4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "44bf334c7d9b11e92d1b61553ffc4b88d9dd85abf87eeb540d5e67018857399e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a434db58b27bfa135ce8c6312cee556416e98425ef32f8d22aa5baba0c023566",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "153e33bde99c775d04ee09b61b1c08ebf1c3525445e8adcb53ca7997bba82e29",
+      "errors": []
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/z1004-deep-tribal-house-percussion-return-combined.mid",
+      "bytes": 5984,
+      "sha256": "21f129c0a94c8fafaa403b696b3155fdc08d3aca1f10e685e7bc69f3706999b1",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

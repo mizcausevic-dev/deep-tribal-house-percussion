@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1937,
+      "sha256": "7834b2537e859e9f11a7dba01cbf1a543c3b25a8438bb25d5d6b9234794079ef"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 223892,
+      "sha256": "ac04bf1b1734a0b19d892febf04be7a6f92cc1c310ce128da19c6f1facb104fa"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2162590,
+      "sha256": "914b3d8850e7829a16fc8fb72d1a8faedcefa1944b69244f1ab53abba04f0be5"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 302,
+      "sha256": "254d76d01f2607b9d413b2b42254e7b2effc6a40932347b234e7421f1fd586b4"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "8cbbe9d90ef552e7d6a5a72d5925a18bce668e127ea96acf1df0adf04df2e0c1"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 269592,
+      "sha256": "a71288f7c1431b829e2d8780585c7ce25161f77e5d0525ed4be04087a2568173"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 763,
+      "sha256": "60f41cc677a4e7bae6a204be856b0f4928b33372b35e4874f28a7caf8d926527"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 763,
+      "sha256": "60f41cc677a4e7bae6a204be856b0f4928b33372b35e4874f28a7caf8d926527"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2044,
+      "sha256": "5720c080c55ea6a0f678f439859b3b5259d44355bf5fadf39ddafd95932879ca"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25622,
+      "sha256": "bc4977bf1f683f4d5a132dbe408e21806eac76b73c510b3aef9242601cc47874"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103666,
+      "sha256": "bf2d26746c0e8036ee880201f484d98768df25a400bfff6c4b20aa7f895eb8d0"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2538,
+      "sha256": "c3bc80513b5b27cc658251ab34fd3eb9c93bc4609258260a9db09aeff99e7484"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "e5fac246b25192256c6403f524f5607456773328b2eb4fde698e0587b51c1033"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1269,
+      "sha256": "9066eabdde409188b78e6dc4351075f57e6d156e690623675d776226a0ef9b86"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 395,
+      "sha256": "47a789d8266d665501477b969cec46643fe4d50ecc30b0b009a32334a8a448db"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z1001-drum-pattern-01.mid",
+      "bytes": 413,
+      "sha256": "6e45c91c21bf82ec25ab4e96c5ebf261dfa7e40e1e6df3bb515cea5923f32b40"
+    },
+    {
+      "path": "clips/z1001-drum-pattern-02.mid",
+      "bytes": 421,
+      "sha256": "c912fdbf6dc22e22b17ed4932a8909980675fd0c74e6e02de48ae7b6d2f3b7cd"
+    },
+    {
+      "path": "clips/z1001-drum-pattern-03.mid",
+      "bytes": 421,
+      "sha256": "26cbc376d11c61c4e3983ed642c7a37c8363871a3b5c2a14ce15b4a71133a0df"
+    },
+    {
+      "path": "clips/z1001-drum-pattern-04.mid",
+      "bytes": 421,
+      "sha256": "c2c333985aa80bea19e584e87179322f7d4e777140a5ecd8123827e1b8961c26"
+    },
+    {
+      "path": "clips/z1002-drum-pattern-01.mid",
+      "bytes": 420,
+      "sha256": "cfd1baab8446419043e0c77ae841313dd7cf41beb039b574df71cfc15f4d5653"
+    },
+    {
+      "path": "clips/z1002-drum-pattern-02.mid",
+      "bytes": 421,
+      "sha256": "8091d88e158458c2ffd15ee2e271d130e9ff90059de21939eda5b0bb9d02a794"
+    },
+    {
+      "path": "clips/z1002-drum-pattern-03.mid",
+      "bytes": 422,
+      "sha256": "990f4ef4e4b638325540a408c18b3dab2cc18aad09a0607189531000a7cc94ba"
+    },
+    {
+      "path": "clips/z1002-drum-pattern-04.mid",
+      "bytes": 421,
+      "sha256": "29cbe872f0f54388c86b8b785c74cbe2ff61273083632f2d325d114b38300547"
+    },
+    {
+      "path": "clips/z1003-drum-pattern-01.mid",
+      "bytes": 421,
+      "sha256": "7d84cef4fa7106efc0c9a1eea875cd05f105836a79f0a83dbadffc1247a11de2"
+    },
+    {
+      "path": "clips/z1003-drum-pattern-02.mid",
+      "bytes": 422,
+      "sha256": "933cd84b0bc8fcefc372927866620ac171d5e101f820a9fec72e7672addb62bc"
+    },
+    {
+      "path": "clips/z1003-drum-pattern-03.mid",
+      "bytes": 421,
+      "sha256": "894395ee96a8e46ed22f10c70957875e551680ecc0e8bc42faa89826916e3182"
+    },
+    {
+      "path": "clips/z1003-drum-pattern-04.mid",
+      "bytes": 412,
+      "sha256": "ba8fd0141e3b0a0552d26c814a0c5ca561ddbf254e61de0dda4e4fceb9edf80d"
+    },
+    {
+      "path": "clips/z1004-drum-pattern-01.mid",
+      "bytes": 421,
+      "sha256": "17a5340598dfcd9688bfac513c42bfd6033f73f041ccfea4596ffc434697a79a"
+    },
+    {
+      "path": "clips/z1004-drum-pattern-02.mid",
+      "bytes": 421,
+      "sha256": "7d24ffc7041132ccddb2f5d87c08128dfdc9e16f514a98fe74a0907af64cf980"
+    },
+    {
+      "path": "clips/z1004-drum-pattern-03.mid",
+      "bytes": 413,
+      "sha256": "cdffd08c11733e2501052f098f13c678b5a307c9c513c6015eec1457c157701f"
+    },
+    {
+      "path": "clips/z1004-drum-pattern-04.mid",
+      "bytes": 420,
+      "sha256": "abe93d3f521325f78cd69915aefc34c6304f9502d6282a4581f30f7697c6caba"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 448,
+      "sha256": "1d1b1651c44d12e22837b8e35ce9eeb103691747a04f0fab2ad4b6cbc4d325a7"
+    },
+    {
+      "path": "downloads/deep-tribal-house-percussion-midi.zip",
+      "bytes": 33208,
+      "sha256": "1c955a3f5d846082a73418efb1aad6641feb1a51a00986a221332810d1b31e56"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2887,
+      "sha256": "35206fa5fd7f2fcec1e5a9ced24133165f3aec300ac35a59e125e728b95bf698"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 33679,
+      "sha256": "712a9b38f3c95ef5ccd1df8a18bf9d0d2076dec091c87de2f03dfab975ba3d83"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 192558,
+      "sha256": "dcfea666b57fb319dd9dbdd9bad2f73ee076fb26e9effaa77ca09f38d9eed6bd"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 937174,
+      "sha256": "9d7caf26b897ed3734e78beb1bf76f19bed1ad6152e8f7aebbad58e1bd2c48fd"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1246,
+      "sha256": "bd7e950ad82cc30c46eea57969186aeab3cfbfa7a40d35a78f1a71887da97b89"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10116,
+      "sha256": "5a8578f0e13ec50d4a653ae78c7f5437c07a9ef349faef5187bfe79b0fc561f6"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ac312d821cf18bfd6a7460795c4857544d03d590296dcd750a8b285cc78f4833"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "549ce35550f21824f2b862fb0df5918f0a4a659f77ab8db40ada3a294e37cfa1"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "5ee5a26cb530d259c7c1c74fe5ba424172e62998a7586e5ee743c0f17c685edc"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "fc5c672ae4c72a386b5ae9cae98d74b939ee5fa658f26d6753c959adcd64a228"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
+    },
+    {
+      "path": "midi/z1001-deep-tribal-house-percussion-opening/z1001-deep-tribal-house-percussion-opening-combined.mid",
+      "bytes": 6018,
+      "sha256": "78b3832c38d703eb5e5d707aaa3632d1a8b54ca9d5c46b7f647cb9ac53c7a35c"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "dc35c636c36a64926dd4d3fc4a68c0dd783a5d089724409f71d93a3d7bfa9f57"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b22de1323eb0beb4bbf34eae3f69636d32cbc4c8529f02fa81bc663b5df131b4"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "21949ea9588972a10080f07625c63d393af5c1a14c30e6f2a248fb5f7ff1c7e9"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "c7b7cd87cc2aa398facff0d7b5b3340424192c83c96ec2d9be95642edcf7db47"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "d6a4bcf3b1f3e93d10d5bae3ca1c9106a53ec30ed50cad0f5ab7159fe3c36825"
+    },
+    {
+      "path": "midi/z1002-deep-tribal-house-percussion-variation/z1002-deep-tribal-house-percussion-variation-combined.mid",
+      "bytes": 6018,
+      "sha256": "5ced8132c61dd5cb1e4934f6362f0498e766f9906bc600d77a97a17bc3169020"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "bd9f01727d2146fae64e0d2ce865b9716ff75e3e888e973f2d2b7395947a9880"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6a40d96e186ee74805e65b9cb3d9ad769616b9f7ee4abd50562eea6e82288ef9"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "006ccc4e80178894dba894d85b708d21eee55cd829f5d4146750e83b77cfab3f"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "43454eb7f1807e5061dee8fb2fa342414abdc2146d07b1eb247db21b7ba3facb"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbdf95f5941b392a2ae70d7d70ca32dc3c5b1f846a0e09a4b1dede8418d0adc2"
+    },
+    {
+      "path": "midi/z1003-deep-tribal-house-percussion-contrast/z1003-deep-tribal-house-percussion-contrast-combined.mid",
+      "bytes": 5984,
+      "sha256": "d77e44424dbae02ed48a47a9d3e2f87e9045f17830c54f4ca97ba7630244d63d"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "b799bb2dbbdc3157b9e2a437d8fad486bbd635dd6c2373f8aa1974a590438040"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e0e3262d8649ee54d81fa83e68e62e9732f6947894d56d93a47571afa87bdcf4"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "44bf334c7d9b11e92d1b61553ffc4b88d9dd85abf87eeb540d5e67018857399e"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a434db58b27bfa135ce8c6312cee556416e98425ef32f8d22aa5baba0c023566"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "153e33bde99c775d04ee09b61b1c08ebf1c3525445e8adcb53ca7997bba82e29"
+    },
+    {
+      "path": "midi/z1004-deep-tribal-house-percussion-return/z1004-deep-tribal-house-percussion-return-combined.mid",
+      "bytes": 5984,
+      "sha256": "21f129c0a94c8fafaa403b696b3155fdc08d3aca1f10e685e7bc69f3706999b1"
+    },
+    {
+      "path": "preview/deep-tribal-house-percussion-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "b0d361d03c0b53b3b1d8023d5428acac62e116aea8c26d26aa942c834b1083ea"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1194,
+      "sha256": "9fda32cf7e374b456698bf567ebc840317733b71659537d5d0f2f18f5b556dca"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4019,
+      "sha256": "3811f098cc95d1ad423e3102132c19a137641bb1e838202547823f86bc69f7fb"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 231,
+      "sha256": "c8e5c8b27bf9d311705eb3c07b999cd1328f910beeef897abe5a51c34cd6f18c"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 275569,
+      "sha256": "49b6caf360f9931e2173bc96dbdfdda09625e6710ec2a06650f0695c648dde8a"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 244107,
+      "sha256": "d2ee600638028db7140087bde6c1baee5976749505168c9346fb904412540489"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 201943,
+      "sha256": "e1f00d30aef67f60c0f643bf533a56485b5da7e368422ee0a91c23a5988de79f"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 193,
+      "sha256": "975fff2aceb0a3eae47047cd345efa212281eac3f47fee124042e412a76b31cb"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13315,
+      "sha256": "1312cc9d979e24330dad475719f92a78b1bcac56ff8cfd4abf4b9a082017ad6b"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}
