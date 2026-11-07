@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/deep-tribal-house-percussion-midi.zip",
-      "bytes": 33208,
-      "sha256": "1c955a3f5d846082a73418efb1aad6641feb1a51a00986a221332810d1b31e56"
+      "bytes": 34195,
+      "sha256": "b51b74bceedbfc5358f20f78b9e2be28c203e0c9d1326a917f88d6bc328c98b1"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10116,
-      "sha256": "5a8578f0e13ec50d4a653ae78c7f5437c07a9ef349faef5187bfe79b0fc561f6"
+      "bytes": 10306,
+      "sha256": "dc079ea935213a29f2bc6f96d952bc471099428a9d14cf56e13d21171fd40e16"
     },
     {
       "path": "midi/z1001-deep-tribal-house-percussion-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "21f129c0a94c8fafaa403b696b3155fdc08d3aca1f10e685e7bc69f3706999b1"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/deep-tribal-house-percussion-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "b0d361d03c0b53b3b1d8023d5428acac62e116aea8c26d26aa942c834b1083ea"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4025,
-      "sha256": "7513afa28768a686d522838a0e5e37e9e23c03e8346e230aeea91db8f9d9ceff"
+      "bytes": 4140,
+      "sha256": "bb49da823eb7d46777ee2f532f66ae95202d2ceb2dd39c6f02342da129d26fdb"
     },
     {
       "path": "social/instagram/caption.txt",
